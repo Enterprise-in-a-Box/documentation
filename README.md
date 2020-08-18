@@ -1,7 +1,7 @@
 # Enterprise in a Box (EIAB)
 
 
-This is an effort to describe and deliver user interfaces, enterprise tooling, and integration patterns. Opinions on how to build your software are excluded, and a solid understanding of enterprise integration solutions are more valued.
+This is an effort to describe and deliver user interfaces, enterprise tooling, and integration patterns. Opinions on how to build your software are excluded, and a solid understanding of enterprise integration solutions are more valued. EIAB is a full stack solution built onto Docker and Kubernetes.
 
 # Goals / Approach - Backing services
 
